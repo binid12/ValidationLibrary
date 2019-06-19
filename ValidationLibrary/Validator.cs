@@ -16,7 +16,7 @@ namespace Murach.Validator
         /// <summary>
         /// The title that appear in the dialogue box
         /// </summary>
-		public static string Title
+        public static string Title
 		{
 			get
 			{
